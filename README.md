@@ -11,7 +11,7 @@ mon site portfolio est pour le moment privé
 Un readme est souvent la premiere chose que les gens lisent quand ils découvrent un projet sur Github.
 ---
 README.md s'affiche automatiquement en bas de la page du projet, formaté et lisible.
- ### diférence entre forker et cloner
+ ### différence entre forker et cloner
  ---
  cloner: cest copier un dépot sur ton ordinateur, en local. tu gardes le lien avec le dépôt d'origine et tu peux y pousser des changement si tu est autorisé.
  Forker: c'est créer une copie d'un dépôt quin'est pas le tien sur ton propre compte Github. 
